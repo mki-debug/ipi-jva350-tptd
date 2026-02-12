@@ -3,7 +3,7 @@ package com.ipi.jva350.model;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;d
 
-public class aLegalementDroitADesCongesPayes {
+public class SalarieAideADomicile_aLegalementDroitADesCongesPayesTest {
 
     @Test
     public void testALegalementDroitADesCongesPayes_MoinsDe10Jours() {
